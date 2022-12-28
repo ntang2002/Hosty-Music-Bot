@@ -12,8 +12,7 @@ Kita pakai bahasa indonesia saja ya, tujuan aku membuat bot ini hanya untuk bela
 
 - Jika kamu ingin memakai project ini jangan lupa letakan copyright ©Hosty Development
 - Kamu bisa menginvite bot kami yaitu hosty diwebsite https://hosty.glitch.me/
-- Jika ada kendala dengan botnya silahkan hubungi kami di discord [tang#7006](https://discord.gg/We5ACwHzq8)
-- 
+- Jika ada kendala dengan botnya silahkan hubungi kami di discord [tang#7006](https://discord.gg/We5ACwHzq8) 
 
 
 
