@@ -4,7 +4,7 @@ Kita pakai bahasa indonesia saja ya, tujuan aku membuat bot ini hanya untuk bela
 
   <h3> Star the Project + Follow me on github </h3>
 
- <img src="https://media.discordapp.net/attachments/827382738872172554/1055147692071850024/tangv2_make_letters_H_to_headset_logo_circle_blue_purple_white__ece97cc1-afeb-449a-8015-4600bc8abba5.png" alt="help to star">
+ <img src="https://cdn.discordapp.com/attachments/1180483105983827998/1183045176051105883/Proyek_Baru_3.png?ex=6586e7ad&is=657472ad&hm=5f622f64204dfa85240eed9055d12a13f3ffcd4f2c2afb6aea14138668fbcb1b&" alt="help to star">
  </div>
            
 
